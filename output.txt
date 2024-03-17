@@ -1,0 +1,459 @@
+Construction Project Management & Engineering Economics                                                                                                     3rd Stage  
+ 
+  Dr. Adnan Fadhil  
+ Assist. Lect. Mustafa Ayad  
+1 
+  
+ ENGINEERING ECONOMY  -  األقتصاد الهندسي  
+ Definition of Engineering Economy ? 
+Engineering Economy is a subset of  economics  for application to  engineering  projects. 
+Engineers seek solutions to problems, and the  economic  viability of each potential 
+solution is normally considered along with the technical aspects.  
+االقتصاد الهندسي هو أحد فروع  علم االقتصاد و الذي يطبق على المشاريع الهندسية. المهندسين عادة  يبحثون  عن 
+حلول للمشاكل األقتصادية بإيجاد الجدوى االقتصادية لكل حل محتمل  جنبا إلى جنب مع العوامل الفنية للمشاريع . 
+ Objectives of Engineering Economy                                   أهداف األقتصاد الهندسي  
+- Finding the suitable and efficient projects                           إيجاد المشاريع المالئمة إقتصاديا 
+- Using the available local resources                                        توظيف المصادر المتوفرة محليا 
+- Developing the technical staff                                             الفني تطوير القدرات المادية للكادر  
+- Maintenance and cost decreasing                                                    خفض كلف الصيانة  
+- Reduction of operating costs with maintaining the quality             خفض كلف التشغيل  
+- Best use of capital                                               األستثمار الصحيح لرأس المال                      
+ 
+ Financial Efficiency            الكفاءة األقتصادية  
+Financial Efficiency   = 𝑰𝒏𝒄𝒐𝒎𝒆  (𝑹𝒆𝒗𝒆𝒏𝒖𝒆 )
+𝑻𝒐𝒕𝒂𝒍  𝑪𝒐𝒔𝒕  
+Financial efficiency should exceed (100%) to achieve profits, otherwise there will be 
+losses.                                           الكفاءةاألقتصادية يجب أن تتجاوز ال 100            % لتحصيل األرباح  
+After the efficiency is measured, the annual rate of return is calculated for the 
+invested capital : 
+ )(معدل العائد السنوي Rate of Return  = 𝑨𝒏𝒏𝒖𝒂𝒍  𝑵𝒆𝒕  𝑷𝒓𝒐𝒇𝒊𝒕
+𝑰𝒏𝒗𝒆𝒔𝒕𝒅  𝑪𝒂𝒑𝒊𝒕𝒂𝒍  × 100 
+This equation is used to find investment efficiency for projects:  
+     (الربح الصافي سنوياَ) Annual Net Profit = Total Revenue – Total Cost  
+Total Cost includes Operation and Maintenance costs, Depreciation, Interest and 
+Taxes.  
+ 
+ 
+العوائد 
+الكلفة الكلية  
+األرباح الصافية سنويا   
+رأس المال       
+الكلفة الكلية تشمل كلف التشغيل و الصيانة ، كلف األندثار و الفوائد السنوية و الضرائب  
+ Construction Project Management & Engineering Economics                                                                                                     3rd Stage  
+ 
+  Dr. Adnan Fadhil  
+ Assist. Lect. Mustafa Ayad  
+2 
+  
+ Non -Momentary Values                                           مؤثرة في الجدوى األقتصادية  ثوابت  
+Some factors affecting the economic studies for projects (feasibility studies). If these 
+factors are ignored, success on projects will be limited. These factors are:  
+-  The economica l laws                                                القوانين األقتصادية  
+- General commercial conditions                                         ظروف السوق  
+- The social valuables                                                               المقتنيات الثمينة  
+- Consumer desire and non -desire                                 في الشراء  رغبة الزبون  
+ 
+ Supply -Demand Law                                    قانون العرض و الطلب  
+This law organises the relation between the sup ply and the demand. Every product is 
+controlled by this law under the free competition.  
+ Demand                        الطلب  
+It is a person ability to purchase any product with a  specified price. When the product 
+price increases , the person ability decreases. With this decrease, the quantity of the 
+purchased units will be decreased.  
+ 
+ Supply                                  العرض  
+It is the quantity  of the produced units that the producer can offer in the market. 
+When the product price increases , the producer increases the produc tion to g et the 
+maximum profit.   
+ 
+الطلب يمثل قدرة الزبون على شراء منتج معين 
+بسعر محدد.  
+منحني الطلب يمثل العالقة  عكسية بين سعر  المنتج 
+و كميات طلبه:  
+بأرتفاع سعر المنتج تنخفض قدرة شراءه و بالتالي 
+يقل الطلب عليه  
+و بإنخفاض الطلب على المنتج تقل كميات إنتاجه  
+العرض يمثل كميات المنتج  المعروضة في السوق .  
+منحني العرض يمثل العالقة  الطردية بين سعر 
+المنتج و كمياته المعروضة في السوق:  
+بأرتفاع سعر المنتج  تزداد أرباحه و تزداد كميات 
+إنتاجه و عرضه في األسواق  
+ Price  
+Supplied Quantity  Construction Project Management & Engineering Economics                                                                                                     3rd Stage  
+ 
+  Dr. Adnan Fadhil  
+ Assist. Lect. Mustafa Ayad  
+3 
+  
+ 
+The intersection between the two cu rves represents the equilibrium  point  of the price 
+with production quantity . As shown below:  
+  
+ The Conditions that the Prices are Changed with                               عوامل تغير األسعار    
+1- When the demand increases  and the supply is 
+stable , the price is increased  
+ 
+بإزدياد الطلب و ثبات العرض يزداد السعر  2- When the demand decreases  and the supply is 
+stable , the price is decreased  
+ 
+ بإنخفاضالعرض و ثبات الطلب  ينخفض السعر  
+3- When the demand is stable  and the supply 
+increases , the price is decreased and the quantity 
+is increased  
+ 
+ 
+بإزدياد العرض و ثبات الطلب ينخفض السعر و تزداد 
+الكمية  4- When the demand is stable  and the supply 
+decreases , the price is increased and the quantity 
+is decreased  
+ 
+ 
+بإنخفاض العرض و ثبات الطلب يزداد السعر و تنخفض 
+الكمية  
+نقطة التقاطع بين منحني العرض و الطلب 
+يمثل نقطة التوازن  
+نقطة التوازن هذه تحدد السعر المثالي و 
+الكمية المناسبة  لعرض المنتج في السوق  
+بما يالئم الطلب عليه  Construction Project Management & Engineering Economics                                                                                                     3rd Stage  
+ 
+  Dr. Adnan Fadhil  
+ Assist. Lect. Mustafa Ayad  
+4 
+ 5- When the supply decr eases and the demand 
+increases , the price is increased and doubled  
+  
+بإنخفاض العرض و إزدياد الطلب يزداد السعر بمقدار 
+الضعف  6- When the supply increases and the demand 
+decreases , the price is decreased and doubled  
+ 
+بإزدياد العرض و إنخفاض الطلب ينخفض السعر 
+بمقدار الضعف  
+7- When the supply increases and the demand  
+also increases, the price is not changed  with the 
+increasing in supply  
+ 
+بإزدياد العرض و الطلب معا  يبقى السعر ثابتا  مع زيادة 
+كمية السلعة  8- When the supply decreases and the demand  
+also decreases, the price is not changed  with the 
+reduction in supply  
+ 
+ بإنخفاضالعرض و الطلب معا  يبقى السعر ثابتا  مع  
+نقصان كمية السلعة  
+ 
+ Competit ion                                         المنافسة اإلقتصادية  
+It is the availability  of products provided from more than one producer. Within a 
+free competition market, any product can enter the market without  any 
+obstructions  
+ تعنيتجهيز سلع و منتجات منتنوعة من عدد مختلف من المجهزين.  بوجود المنافسة في األسواق تنعدم 
+الهيمنة و السيطرة و األحتكار األقتصادي  
+ Monopoly                                 األحتكار األقتصادي  
+It is t he reverse of the competition. It means offering a specified single product by  
+one producer who monopoli se the market and prevents any oth er product to 
+enter the market  to enforce the customer  to buy with price that suits that 
+producer.  
+ األحتكارهو عكس المنافسة. مما  يعني توفير الزبون أو المشتري بسلعة أو منتج   واحد فقط ال غير و ذلك 
+بسبب منع أي سلعة أخرى من دخول السوق. مما يؤدي إلى أحتكار األسعار و التحكم فيها  
+Construction Project Management & Engineering Economics                                                                                                     3rd Stage  
+ 
+  Dr. Adnan Fadhil  
+ Assist. Lect. Mustafa Ayad  
+1 
+  
+Interest -  معدل الفائدة  
+ What is Interest ? 
+It is how much is paid for using the money  (for investment) . It is expressed as an 
+annual percentage rate. (or as an amount) . 
+ 
+ The Factors of Interest Calculation      عوامل و نتائج حساب الفائدة  
+1- Principal (P): The amount of money borrowed  or invested  
+  : و هو المال المستثمر أو المقترض( P  رأسالمال (  
+2- Interest rate (i): It is the amount of money returns from investment. It is expressed 
+as an annual percentage rate . 
+ معدلالفائدة: و هو المبلغ الناتج عن إستثمار رأس المال و يقاس بنسبة مئوية لفترة زمنية محددة  
+3- Number of periods  (n): It is the time of borrowing or investing the money . It is 
+usually expressed in years.  
+ فترةاألقتراض أو األستثمار  : هي الفترة الزمنية التي تحسب خاللها مقدار الفائدة العائدة و تقاس بالسنوات عادة  
+4- Future Value (F): The amount of cash at a specified date in the future that is 
+equivalent in value to a specified sum today.  
+ القيمةالمستقبلية : هو  قيمة المبلغ المقترض في المستقبل و الذي يعادل مجموع تراكم األموال المستثمرة أو 
+المقترضة مع األربا  العائدة ييلة فترة األستثمار  أو األقتراض  
+Cash Flow Diagram: It is a tool used by accountants and engineers, to represent the 
+transactions of cash which will take place ov er the course of a given project.  
+ 
+Downward  arrows - negative cash flow - (Costs ) 
+Upward  arrows  - positive cash flow – )Revenue( 
+ الفائدةهو المردود المادي الناتج عن إستثمار أو توظيف األموال. يستخدم هذا في المصارف   
+مخطط التدفق النقدي هو مخطط تصويري يوضح 
+أفقياً وقت األستثمار المحتسب بالسنين كما يمثل  
+تدفق األموال المصروفة (المستثمرة) و 
+المستحصلة على شكل أسهم.  
+تكون أسهم اإليرادات  لألعلى لتمثل القيم الموجبة  
+بينما أسهم المصاريف تكون لألسفل لتمثل القيم 
+السالبة   Construction Project Management & Engineering Economics                                                                                                     3rd Stage  
+ 
+  Dr. Adnan Fadhil  
+ Assist. Lect. Mustafa Ayad  
+2 
+  
+ Methods of Calculating Interest    يرق إحتساب معدل الفائدة  
+Interest is usually calculated using one of two methods: Simple Interest calculation, or 
+Compo und Interest calculation.  
+ What is Simple Interest?        الفائدة البسيية  
+Simple interest is a way of accumulating interest on principal  (the original amount of 
+the borrowed or invested  money ).  When money is borrowed, the borrower is usually 
+required to pay the supplier of the fund s a rate of interest until the principal has been 
+repaid.  
+Interest (I) = (i × P) . n              
+F = P + I                          F = P + P.i.n                         F = P ( 1 + i.n)  
+ 
+P = amount of money borrowed or invested (called "Principal")  
+F = The future sum of money that a given sum of money is "worth" at a specified time 
+in the future assuming a certain interest rate . In other means, The amount of the 
+borrowed or invested money in the future.  
+i = Annual  interest rate  (%) 
+n = time  of borrowing or in vesting the money (usually expressed in ‘Years’)  
+U = The amount of money calculated with Unit Price  
+ 
+ 
+ 
+Example:  
+For the cash flow shown below, find the future value.   
+ 
+                                                                  1                                                2 
+ 
+ 
+Solution:  
+F = P ( 1 + i.n)  
+F = 1 × 106 ( 1+ 0.1*2) = 1,200,000 U  
+ 
+ What is Compound Interest?           الفائدة المركبة  
+It is the interest added to the principal of borrowed or invested money, so that the 
+added interest also earns interest fr om then on.   : أصل المبلغ المقترض أو المستثمر P 
+P  المبلغ الواجب تسديده عند نهاية فترة اإلقتراض (في حالة األقتراض) و يمثل أيضاً الم بالغ العائدة مستقبالً نتيجة استثمار  المبلغ F 
+  : معدل الفائدة السنوية  (في حالة عدم ذكرها، تفرض10)% i 
+ : عدد سنوات األقتراض أو األستثمار n 
+ : قيمة المبلغ المادية U 
+P = 1 × 106 U F =? 
+i= 10%  هومبلغ الفائدة الثابت الواجب دفعه من قبل المقترض عند نهاي ة المدة الزمنية 
+لإلقتراض  
+ 
+تمثل الفائدة المترتبة على المبلغ المركب و هو ناتج جمع المبلغ األصلي مع الفائدة  Construction Project Management & Engineering Economics                                                                                                     3rd Stage  
+ 
+  Dr. Adnan Fadhil  
+ Assist. Lect. Mustafa Ayad  
+3 
+ P = P ( 1 + i) + i [ P (1+i) ] = P(1+i)2 
+Future Value (F) = P(1+i)n                               Principal ( Present) Value (P) = F(1+i)-n                 
+As shown below:  
+No. of Years (n) –  سنوات
+األقتراض  Principal (Present) 
+Value (P) – القيمة الحالية  Interest – الفائدة  
+Each year (n=1)  Future Value –  القيمة
+المستقبلية  
+1 P P.i.n  P + P.i = P(1+i)  
+2 P(1+i)  P(1+i)  × i.n P(1+i)  + P(1+i) i   
+= P[(1+i)(1+i) ] 
+      = P(1+i)2 
+3 P(1+i)2 P(1+i)2 × i.n  P(1+i)2 + P(1+i)2i   
+= P[(1+i)2(1+i)]  
+     = P(1+ i)3 
+n P(1+i)n P(1+i)n × i.n  P(1+i)n + P(1+i)n i   
+Example:  
+For the cash flow shown below, find the Present  value.   
+                             0 
+                                       1        2      3       4       5       6       7      8      9      10 
+ 
+ 
+Solution:  
+P = F (1+i)-n 
+    = 180 × 106 (1 +0.12)-10 
+    = 57,955,183 U  
+ 
+ Cases for Compound Payment  
+1- Single Payment                                         الدفعة المفردة  
+P = F (1+i)-n 
+F = P (1+i)n 
+  
+ 
+                                                                 No. of years (n)  
+ 
+ 
+2- Equal – Series Payment                          متسلسلة الدفعة المتساوية  
+F = A [ (𝟏+𝒊)𝒏 −𝟏
+𝒊 ] P = ? F = 180 × 106 U 
+i= 12% 
+P  F
+  
+i=% Construction Project Management & Engineering Economics                                                                                                     3rd Stage  
+ 
+  Dr. Adnan Fadhil  
+ Assist. Lect. Mustafa Ayad  
+4 
+ A = 170,000 U  
+A = 5,000 U  P = A [ (𝟏+𝒊)𝒏 −𝟏
+(𝟏+𝒊)𝒏 .  𝒊  ] 
+  
+          
+                                                                 No. of years (n)  
+ 
+ 
+A = Annual Payments ( دفعات سنوية منتظمة بنفس القيمة  ( 
+ 
+Example:   
+For the cash flow shown below,  find the Future and Present value  
+ 
+                             0 
+                                           1                  2               3             4           5  
+ 
+ 
+Solution:  
+F = 170,000 *  [ (𝟏+𝟎.𝟎𝟖)𝟓 −𝟏
+𝟎.𝟎𝟖 ]  = 997,322 U 
+P = 170,00 0 *  [ (𝟏+𝟎.𝟎𝟖)𝟓 −𝟏
+(𝟏+𝟎.𝟎𝟖)𝟓 .  𝟎.𝟎𝟖  ]  =   678,760 U  
+ 
+Example:   
+For the cash flow shown below, find the Present value  
+ 
+                             0 
+                                       1       2       3       4        5       6      7      8      9  
+ 
+ 
+Solution:   
+P (at year 5)  = 5,000 *  [ (𝟏+𝟎.𝟎𝟖)𝟒 −𝟏
+(𝟏+𝟎.𝟎𝟖)𝟒 .  𝟎.𝟎𝟖  ]  =   16,360 U   (This is F at year 5) 
+P (at year 0 ) = 16, 360  *(1 + 0.08) -5 = 11,27 0 U 
+ P  F
+  
+i=% A  
+P=?  i=8% F=?  
+P
+  i=8% F=?  
+P=?  F  
+:هامةمالحظات  
+ ي يمثل مجموع عدد السنوات N -  إذا كانت الدفعاتالمنتظمة سنوية فإن   
+ n×2   إذاكانت الدفعات نصف سنوية فإن     - 
+n×4 - إذا كانت الدفعات فصلية فإن  
+n×12 -  إذا كانت الدفعات شهرية فإن  n Construction Project Management & Engineering Economics                                                                                                     3rd Stage  
+ 
+  Dr. Adnan Fadhil  
+ Assist. Lect. Mustafa Ayad  
+1 
+  
+ Cost Accounting  -  حساب الكلف  
+ What is Cost Accounting ? 
+It is a process of collecting, analysing , summari sing and evaluating various alternative 
+courses of action. Its goal is to advise the management on the most appropriate 
+course of action based on the  cost efficiency  and capability . 
+ 
+ 
+ Cost Elements  
+There are two types of costs:  
+ 
+A- Direct Cost (Variable Cost)      الكلف المتغيرة  
+It includes the costs that are used in the production process. This includes the 
+following costs:  
+- Raw materials costs                 كلف المواد األولية  
+- Costs of man -power                كلف اإليدي العاملة  
+- Costs of the operation and maintenance of the machines and tools used in 
+production (with the cost of the depreciation)    مصاريف تشغيل و صيانة المعدات و كلف إندثارها  
+- Costs of storage, protection and marketing                     كلف الخزن و التسويق  
+- Energy costs                        صرفيات إستهالك الطاقة  
+ 
+A- Overhead  Cost ( Fixed  Cost)         الكلف الثابتة   
+This includes  the costs that are not involved in the production process. However, they 
+are necessary of the. For example:  
+- Costs and expenses of the management office                                      المصاريف اإلدارية  
+-  Costs and expenses of the buildings and its depreciation  مصاريف المنشاءات وتكاليفإندثارها   
+- Costs and expenses of the product advertising and declaration       صرفيات التسويق المنتج  
+عملية جمع وتحليل، تلخيص وتقييم مسارات بديلة مختلفة من العمل.  هي 
+هدفها هو تقديم المشورة لإلدارة على أنسب مسار للعمل على أساس الكفاءة من حيث التكلفة والقدرة.  Construction Project Management & Engineering Economics                                                                                                     3rd Stage  
+ 
+  Dr. Adnan Fadhil  
+ Assist. Lect. Mustafa Ayad  
+2 
+ - General services (such as, health and workers safety costs)     مصاريف الخدمات العامة  
+- Taxes              الضرائب                                 
+ 
+ 
+ 
+   
+ 
+ 
+Total Cost (T.C) = Variable Costs (V.C) + Fixed Costs (F.C)  
+ 
+ Break -Even Point        نقطة التعادل  
+It is the point where the total production costs become equal to the total revenue 
+collected from selling or consuming the product. In ot her means, it is the point where 
+no profit is made or no loss is occurred. This point indicates the period with which the 
+product starts to make profit.  
+ 
+ 
+ 
+Variable Costs  Costs  (C) Cost (C)  
+Quantity (Q)  Quantity (Q)  
+Q C 
+ نقطة التعادل: هي نقطة تساوي األرباح المستحصلة من بيع منتج
+معين مع كلف إنتاجه. عند هذه النقطة، ال توجد أرباح أو خسائر  
+ Construction Project Management & Engineering Economics                                                                                                     3rd Stage  
+ 
+  Dr. Adnan Fadhil  
+ Assist. Lect. Mustafa Ayad  
+3 
+  
+ الهدف من إيجاد نقطة التعادل هو لغرض دراسة الجدوى األقتصادية للمشروع لذلك تسعى إدارة المشروع
+إلى نقطة التعادل بأقصر فترة زمنية ممكنة لتحقيق أهداف المشروع األقتصادية بشكل سريع و ناجح  للوصول  
+ 
+ Factors Affecting the Break -Even Point          عوامل تؤثر على نقطة التعادل  
+1- The Fixed Costs: When this cost increases, the total cost increases. This affects the 
+break -even point   (Fig. 1)  
+ 
+2- Change in Unit Quantity: When the quantity of product consumption increase, 
+revenue increase (and vice -versa)       (Fig. 2)  
+ 
+ 
+3- The Variable Costs: When this cost increases, the profit increases. This affects the 
+break -even point       (Fig. 1)  
+ 
+ 
+4- Change in Prices: When prices decreases, revenue decrease. This increase s the 
+period within the break -even point is reached      (Fig. 2)  
+ 
+ 
+ 
+ 
+            
+To find the Break -Even Point:  
+P = G – T.C 
+P = G – (F.C + V.C)  
+P = S n – F.C n – V.C n 
+P + F.C = n (S – V.C) 
+ 
+n = 𝑭.𝑪+𝑷
+𝑺−𝑽.𝑪 
+G:         العوائد المستحصلة من بيع المنتج بسعر معين  
+Sn:        سعر البيع لكل وحدة منتجة  
+n: عدد الوحدات المباعة من المنتج          
+T.C:       الكلفة الكلية  
+F.C:                 الكلفة الثابتة  
+V.C:       الكلفة المتغيرة  
+P:          مقدار الربح  تعيين الكلف الثابتة : حيث أنه بزيادة الكلفة الثابتة، تزداد الكلفة 
+الكلية  
+أثر كمية األنتاج على الربح: حيث أنه بزيادة األنتاج تزداد األرباح (والعكس بالعكس) . بزيادة 
+األنتاج تزداد األيرادات المستحصلة و بالتالي يزداد الربح  
+أثر تغير الكلف المتغيرة على نقطة التعادل: زيادة الكلفة المتغيرة تقلل األرباح و تبتعد نقطة 
+التعادل و بقلة التكاليف المتغيرة تزداد األرباح و تقترب نقطة التعادل  
+أثر تغير األسعار (األيرادات) : كلما قلت األيرادات قل الربح( و العكس بالعكس). بإنخفاض 
+األسعار تقل اإليرادات و تزداد فترة الوصول لنقطة التعادل  
+Fig. 2  Fig. 1  Construction Project Management & Engineering Economics                                                                                                     3rd Stage  
+ 
+  Dr. Adnan Fadhil  
+ Assist. Lect. Mustafa Ayad  
+4 
+  
+n = 𝑭.𝑪+𝑷
+𝑺−𝑽.𝑪 = 𝟓𝟕,𝟎𝟎𝟎,𝟎𝟎𝟎+𝟎
+𝟒𝟓𝟎−𝟐𝟕𝟓 = 325714.29 thousands of bricks (325714290 bricks)  
+Nyears = 𝟑𝟐𝟓𝟕𝟏𝟒𝟐𝟗𝟎
+𝟏𝟕𝟎,𝟎𝟎𝟎 = 1915.967 ( approx.  1916 days) = 5.25 years  
+ 
