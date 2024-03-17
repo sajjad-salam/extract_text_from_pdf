@@ -10,8 +10,9 @@ def extract_text_from_pdf(pdf_path):
             text += page.extractText()
     return text
 
+
 # Example usage:
-pdf_path = 'fire3.pdf'
+pdf_path = 'file.pdf'
 output_file = 'output.txt'
 
 extracted_text = extract_text_from_pdf(pdf_path)
