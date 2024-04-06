@@ -47,4 +47,3 @@ pdf_files/
 Feel free to reach out if you have any questions or suggestions!
 ```
 
-You can modify this template to include more detailed information about your script, such as additional features, usage examples, or troubleshooting tips.
