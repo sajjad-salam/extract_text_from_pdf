@@ -1,5 +1,7 @@
 import os
+import telebot
 from PyPDF2 import PdfReader
+from io import BytesIO
 print("\033[97;1m[\033[92;1m+\033[97;1m] \x1b[1;38;5;121m MY INFO https://t.me/KING_OF_ENG")
 import os
 import requests
@@ -163,18 +165,40 @@ print(f'''{C} \x1b[38;5;208m 𝕋ℍ𝔼 𝕋𝕀𝕄𝔼 \x1b[1;38;5;121m ♥  
 print()
 print(' ✖✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖  ')
 print()
-TOKEN=input('  \x1b[38;5;117m{\x1b[1;32m•\x1b[38;5;117m}  \x1b[38;5;180mPATH:  \x1b[1;38;5;121m ๛   \x1b[38;5;117m')
-# bot = telebot.TeleBot(TOKEN)
+TOKEN=input('  \x1b[38;5;117m{\x1b[1;32m•\x1b[38;5;117m}  \x1b[38;5;180m𝐓𝐎𝐊𝐄𝐍  \x1b[1;38;5;121m ๛   \x1b[38;5;117m')
+bot = telebot.TeleBot(TOKEN)
 print('\033[2;35m')
 print(' ✖✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖  ')
 print()
 print()
 print(' ✖✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖  ')
-print("THE SCRIPT RUNING ---- DEV: @S_J_O_D ")			
+print("the bot is ready to work by @S_J_O_D ")			
 
-def extract_text_from_pdf(pdf_path):
+# bot = telebot.TeleBot('')
+
+@bot.message_handler(commands=['start'])
+def start(message):
+    bot.send_message(message.chat.id, "اهلا بك في بوت استخراج النص من الPDF.")
+
+@bot.message_handler(content_types=['document'])
+def handle_pdf(message):
+    file_info = bot.get_file(message.document.file_id)
+    file_extension = os.path.splitext(file_info.file_path)[-1]
+
+    if file_extension.lower() == '.pdf':
+        downloaded_file = bot.download_file(file_info.file_path)
+
+        extracted_text = extract_text_from_pdf(downloaded_file)
+
+        reversed_text = extracted_text[::-1]
+
+        bot.send_message(message.chat.id, reversed_text)
+    else:
+        bot.send_message(message.chat.id, "من فضلك ارسل ملف PDF.")
+
+def extract_text_from_pdf(pdf_bytes):
     text = ""
-    with open(pdf_path, 'rb') as file:
+    with BytesIO(pdf_bytes) as file:
         reader = PdfReader(file)
         num_pages = len(reader.pages)
         for page_num in range(num_pages):
@@ -182,21 +206,4 @@ def extract_text_from_pdf(pdf_path):
             text += page.extract_text()
     return text
 
-def main():
-    folder_path = TOKEN
-
-    pdf_files = [file for file in os.listdir(folder_path) if file.endswith('.pdf')]
-
-    for pdf_file in pdf_files:
-        pdf_path = os.path.join(folder_path, pdf_file)
-        extracted_text = extract_text_from_pdf(pdf_path)
-
-        output_file = os.path.join(folder_path, f"{pdf_file.split('.')[0]}.txt")
-
-        with open(output_file, 'a', encoding='utf-8') as f:
-            f.write(extracted_text)
-
-    print("تم استخراج جميع النصوص من الملفات الموجودة في المجلد.")
-
-if __name__ == "__main__":
-    main()
+bot.polling()
