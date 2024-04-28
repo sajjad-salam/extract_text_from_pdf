@@ -172,7 +172,7 @@ print(' ✖✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖  '
 print()
 print()
 print(' ✖✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖ ✘✖  ')
-print("the bot is ready to work by @S_J_O_D ")			
+print("the bot is ready to work by @S_J_O_D ")
 
 # bot = telebot.TeleBot('')
 
